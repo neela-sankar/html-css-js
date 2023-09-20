@@ -1,2 +1,2 @@
 # html-css-js
-Basic to Advanced JS Projects
+Basic to Advanced Web Designs Projects
